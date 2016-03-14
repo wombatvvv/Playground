@@ -1,2 +1,5 @@
 *.sdf
 *.opendb
+*.obj
+*.ilk
+*.pbd
