@@ -8,3 +8,4 @@
 *.pdb
 *.tlog
 *.tlog/*
+.vs*/*
