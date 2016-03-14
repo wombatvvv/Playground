@@ -1,0 +1,4 @@
+﻿  Source.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Third Party Libs Setupd.vcxproj -> E:\Programming\CodeExperiments\x64\Debug\2 .Third Party Libs Setup.exe
+  Third Party Libs Setupd.vcxproj -> E:\Programming\CodeExperiments\x64\Debug\2 .Third Party Libs Setup.pdb (Partial PDB)
